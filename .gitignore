@@ -1,0 +1,21 @@
+#updated spring 2018
+# Exclude all java class files
+*.class
+
+# Exclude the eclipse bin and classes folders
+bin/
+classes/
+
+# Exclude the eclipse .metadata workspace folder
+.metadata/
+
+#Exclude recommenders folder and files
+.recommenders/
+
+# Exclude temporary and backup files
+tmp/
+*.bak
+*.tmp
+ 
+# Exclude log files
+*.log

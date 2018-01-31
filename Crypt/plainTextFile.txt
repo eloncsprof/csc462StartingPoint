@@ -1,0 +1,11 @@
+Elon University has a leading edge Computer Science Department with
+state of the art software and hardware. For example, the student computing lab, Carpenter Lab, has
+12 Apple 27 inch IMacs with a second 21/23 inch second monitor.
+  
+During the winter in January 2018, the software updated for this class includes:
+
+1. Eclipse Oxygen 4.7.2 Oxygen.
+2. MySQL 5.7
+3. MySQL Workbench 6.3.10
+4. Java JDK 9.0
+5. Tomcat 8.5
